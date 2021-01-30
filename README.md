@@ -1,3 +1,7 @@
+#Integrantes
+* Andres Mendoza
+* Daniela Alvarez
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
@@ -27,5 +31,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-actualizacion 
-andres mendoza
+
