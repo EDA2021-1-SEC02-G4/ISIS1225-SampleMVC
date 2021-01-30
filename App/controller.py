@@ -51,9 +51,9 @@ def loadTags(filename):
         model.addTag(tags, tag)
     return tags
 
+def loadBookTags(filename):
+    booktagsfile = cf.data_dir + filename
+    return model.addBooktags(booktagsfile)
 
-def loadBooksTags(catalog):
-    """
-    TODO
-    """
-    pass
+def saludo():
+    return model.saludo()
